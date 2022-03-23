@@ -1,14 +1,14 @@
 [{
-		"Name": "Soldier1",
+		"Name": "Adam Hill",
 		"TrackingImageURL": "This is the URL from internet",
-		"Designation": "DGP",
+		"Designation": "SPC",
 		"Type": "US Army"
 	},
 
 	{
-		"Name": "Soldier2",
+		"Name": "Chrish Ishmael",
 		"TrackingImageURL": "This is the second URL from internet",
-		"Designation": "ACP",
+		"Designation": "PFC",
 		"Type": "US Marine Corps"
 	}
 ]
