@@ -1,13 +1,13 @@
 [{
 		"Name": "Adam Hill",
-		"TrackingImageURL": "This is the URL from internet",
+		"TrackingImageURL": "https://raex1311.github.io/VMA/ImagesToDetect/TestingImage.jpg",
 		"Designation": "SPC",
 		"Type": "US Army"
 	},
 
 	{
 		"Name": "Chrish Ishmael",
-		"TrackingImageURL": "This is the second URL from internet",
+		"TrackingImageURL": "https://raex1311.github.io/VMA/ImagesToDetect/TestingChrisIshmael.jpg",
 		"Designation": "PFC",
 		"Type": "US Marine Corps"
 	}
