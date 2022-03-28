@@ -1,14 +1,22 @@
 [{
 		"Name": "Adam Hill",
 		"TrackingImageURL": "https://raex1311.github.io/VMA/ImagesToDetect/TestingImage.jpg",
+                "Hometown": "Bangalore",
+                "DOB": "12oct, 1980",
+                "DOD": "13oct, 2012",
 		"Designation": "SPC",
-		"Type": "US Army"
+		"Branch": "US Army",
+                "ShortBio": "The bio is short"
 	},
 
 	{
 		"Name": "Chrish Ishmael",
 		"TrackingImageURL": "https://raex1311.github.io/VMA/ImagesToDetect/TestingChrisIshmael.jpg",
+                "Hometown": "Bangalore",
+                "DOB": "12oct, 1980",
+                "DOD": "13oct, 2012",
 		"Designation": "PFC",
-		"Type": "US Marine Corps"
+		"Branch": "US Marine Corps"
+                "ShortBio": "The bio is short"
 	}
 ]
